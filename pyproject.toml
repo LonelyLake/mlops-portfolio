@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "mlops-portfolio"
+version = "0.1.0"
+description = "End-to-end MLOps projects"
+authors = ["StarlitSky"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+flake = "^6.0"
