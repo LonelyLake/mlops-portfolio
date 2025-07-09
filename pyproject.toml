@@ -9,4 +9,4 @@ python = "^3.10"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.0"
-flake = "^6.0"
+flake8 = "^6.0"
